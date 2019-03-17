@@ -1,0 +1,500 @@
+{"content": "i ve had this thermometer for num_num years .", "line": "i ve had this thermometer for about num_num years .", "masks": [6], "label": "1"}
+{"content": "will update this review should it meet a similar fate to my previous .", "line": "will update this review should it meet a similar fate to my previous wheel .", "masks": [13], "label": "1"}
+{"content": "this product suppose to do .", "line": "this product does what it is suppose to do .", "masks": [2, 3, 4, 5], "label": "1"}
+{"content": "i this filter for a braun num_extend coffeemaker .", "line": "i purchased this filter for a braun num_extend coffeemaker .", "masks": [1], "label": "1"}
+{"content": "very good price but this one harder cusinart .", "line": "very good price but this one harder to use than my cusinart .", "masks": [7, 8, 9, 10], "label": "1"}
+{"content": "so to me this is pretty darn instant .", "line": "so ,  to me this is pretty darn  instant  .", "masks": [1], "label": "1"}
+{"content": "replaced chef garlic press with this one .", "line": "replaced my pampered chef garlic press with this one .", "masks": [1, 2], "label": "1"}
+{"content": "use this as a little office supply shelf .", "line": "i use this as a little office supply shelf .", "masks": [0], "label": "1"}
+{"content": "seems similar quality to apple products .", "line": "durable and seems similar quality to apple products .", "masks": [0, 1], "label": "1"}
+{"content": "i have many oxo products , and i ve .", "line": "i have many oxo products ,  and i ve always been pleased .", "masks": [9, 10, 11], "label": "1"}
+{"content": "i also prefered the blade weight and thickness of the .", "line": "i also prefered the blade weight and thickness of the wustof .", "masks": [10], "label": "1"}
+{"content": "make sure the line up with the contacts .", "line": "make sure the pins line up with the contacts .", "masks": [3], "label": "1"}
+{"content": "it turned out just fine to replace what had lost .", "line": "it turned out just fine to replace what i had lost .", "masks": [8], "label": "1"}
+{"content": "love the way these roll instead of the rod .", "line": "love the way these roll instead of sliding on the rod .", "masks": [7, 8], "label": "1"}
+{"content": "product time and was wrapped well .", "line": "product arrived on time and was wrapped well .", "masks": [1, 2], "label": "1"}
+{"content": "they pile up nice in the closet dishwasher .", "line": "they pile up nice in the closet and clean up great in the dishwasher .", "masks": [7, 8, 9, 10, 11, 12], "label": "1"}
+{"content": "i had it a long time now and i", "line": "i had it a long time now and i still love it .", "masks": [9, 10, 11, 12], "label": "1"}
+{"content": "this offers really good protection for the .", "line": "this offers really good protection for the phone .", "masks": [7], "label": "1"}
+{"content": "this is one of best vacuums i ve ever come across .", "line": "this is one of the best vacuums i ve ever come across .", "masks": [4], "label": "1"}
+{"content": "one minute per slice seems like a good rule of thumb", "line": "one minute per slice seems like a good rule of thumb so far .", "masks": [11, 12, 13], "label": "1"}
+{"content": "i would have given this five stars except for the complaint i had .", "line": "i would have given this five stars except for the only complaint i had .", "masks": [10], "label": "1"}
+{"content": "the metal non stick finish is great .", "line": "the metal is very sturdy and the non stick finish is great .", "masks": [2, 3, 4, 5, 6], "label": "1"}
+{"content": "flap also is good and does not come loose at all .", "line": "the flap also is good and does not come loose at all .", "masks": [0], "label": "1"}
+{"content": "sharp cutting edges make your look as good as they taste .", "line": "sharp cutting edges make your pies look as good as they taste .", "masks": [5], "label": "1"}
+{"content": "i m a male , a bachelor .", "line": "i m a male ,  a bachelor who lives alone .", "masks": [7, 8, 9], "label": "1"}
+{"content": "recently threw in the trash the line wore out .", "line": "recently threw in the trash as the line wore out .", "masks": [5], "label": "1"}
+{"content": "i , it .", "line": "i have several of these ,  well worth it .", "masks": [1, 2, 3, 4, 6, 7], "label": "1"}
+{"content": "i anyone who wants a pda .", "line": "i would recommend to anyone who wants a pda .", "masks": [1, 2, 3], "label": "1"}
+{"content": "i believe it was about $ when it came to market", "line": "i believe it was about $ when it came to market .", "masks": [11], "label": "1"}
+{"content": "great , though there may be cheaper options .", "line": "great charger ,  though there may be cheaper options .", "masks": [1], "label": "1"}
+{"content": "whole thing gets hot when you use it .", "line": "the whole thing gets hot when you use it .", "masks": [0], "label": "1"}
+{"content": "so shipping takes a while but price .", "line": "so shipping takes a while but it is definitely worth the price .", "masks": [6, 7, 8, 9, 10], "label": "1"}
+{"content": "blocking red hot coils from my cookie sheets , and glassware .", "line": "blocking the red hot coils from my cookie sheets ,  and glassware .", "masks": [1], "label": "1"}
+{"content": "the sound range and loudness is pretty impressive for price and size .", "line": "the sound range and loudness is pretty impressive for the price and size .", "masks": [9], "label": "1"}
+{"content": "great for about you want to shred , cut or mix .", "line": "great for about anything you want to shred ,  cut or mix .", "masks": [3], "label": "1"}
+{"content": "order it with something else , and you get free shipping .", "line": "order it with something else ,  and you ll get free shipping .", "masks": [8], "label": "1"}
+{"content": "i don t pie weights are for me .", "line": "i don t think pie weights are for me .", "masks": [3], "label": "1"}
+{"content": "the head set at least for me .", "line": "the head set is quite comfortable  at least for me  .", "masks": [3, 4, 5], "label": "1"}
+{"content": "washing it a breeze and just takes a second .", "line": "washing it is a breeze and just takes a second .", "masks": [2], "label": "1"}
+{"content": "once glitch , which i did not view all that negative .", "line": "once glitch ,  which i did not view as all that negative .", "masks": [8], "label": "1"}
+{"content": "i have had this mount for about a year", "line": "i have had this mount for about a year and it works great .", "masks": [9, 10, 11, 12, 13], "label": "1"}
+{"content": "this happened after about num_num years use .", "line": "this happened after about num_num years of use .", "masks": [6], "label": "1"}
+{"content": "but it s not bad for wireless , i ve had .", "line": "but it s not bad for wireless ,  i ve had worse .", "masks": [11], "label": "1"}
+{"content": "for my phone and at the best price possible .", "line": "exactly what i need for my phone and at the best price possible .", "masks": [0, 1, 2, 3], "label": "1"}
+{"content": "shipped free directly from realook two days .", "line": "shipped free directly from realook and arrived within two days .", "masks": [5, 6, 7], "label": "1"}
+{"content": "i of course treated it with a wood sealant to through the winter .", "line": "i of course treated it with a wood sealant to last through the winter .", "masks": [10], "label": "1"}
+{"content": "and i have no problems .", "line": "easy to put on and i have no problems .", "masks": [0, 1, 2, 3], "label": "1"}
+{"content": "i think that is the to keep the fish moist .", "line": "i think that is the way to keep the fish moist .", "masks": [5], "label": "1"}
+{"content": "it just one and that s not a big deal .", "line": "it was just one and that s not a big deal .", "masks": [1], "label": "1"}
+{"content": "i haven t had any problems with flaking off .", "line": "i haven t had any problems with teflon flaking off .", "masks": [7], "label": "1"}
+{"content": "i vacuum head was a little larger .", "line": "i only wish the vacuum head was a little larger .", "masks": [1, 2, 3], "label": "1"}
+{"content": "this one is available at a decent price with shipping here on amazon .", "line": "this one is available at a decent price with fair shipping here on amazon .", "masks": [9], "label": "1"}
+{"content": "i like everything except cucumber juice echhh .", "line": "i like almost everything except cucumber juice  echhh  .", "masks": [2], "label": "1"}
+{"content": "feature is that the spatula head is removable for east cleaning .", "line": "one great feature is that the spatula head is removable for east cleaning .", "masks": [0, 1], "label": "1"}
+{"content": "auto shut off after num_num hours , which is a good feature", "line": "auto shut off after num_num hours ,  which is a good feature .", "masks": [12], "label": "1"}
+{"content": "even after several , they are air tight in a wine bottle .", "line": "even after several days ,  they are air tight in a wine bottle .", "masks": [3], "label": "1"}
+{"content": "i bought this in num_num and the pan shape .", "line": "i bought this in num_num and the pan is still in great shape .", "masks": [8, 9, 10, 11], "label": "1"}
+{"content": "with those tender special moments and celebrations .", "line": "these come in handy with those tender special moments and celebrations .", "masks": [0, 1, 2, 3], "label": "1"}
+{"content": "and yet and", "line": "and yet it is compact and not too heavy .", "masks": [2, 3, 4, 6, 7, 8, 9], "label": "1"}
+{"content": "both english and metric measurements are embossed onto spoon .", "line": "both english and metric measurements are embossed onto each spoon .", "masks": [8], "label": "1"}
+{"content": "and it ll keep rice perfect for up to num_num hours .", "line": "and it ll keep rice perfect and hot for up to num_num hours .", "masks": [6, 7], "label": "1"}
+{"content": "the copper finish is coated with clear plastic to prevent oxidation .", "line": "the copper finish is coated with a clear plastic to prevent oxidation .", "masks": [6], "label": "1"}
+{"content": "air clean fresh smelling .", "line": "it keeps the air clean and nice fresh smelling .", "masks": [0, 1, 2, 5, 6], "label": "1"}
+{"content": "belt works fine and installed in just a few .", "line": "belt works fine and installed in just a few minutes .", "masks": [9], "label": "1"}
+{"content": "obviously the of safety from overflow is much smaller .", "line": "obviously the margin of safety  from overflow  is much smaller .", "masks": [2], "label": "1"}
+{"content": "i paid $ for this when i a few other pieces .", "line": "i paid $ for this when i bought a few other pieces .", "masks": [7], "label": "1"}
+{"content": "i the shipping wasnt so long .", "line": "i would buy again if the shipping wasnt so long .", "masks": [1, 2, 3, 4], "label": "1"}
+{"content": "so far has lasted a long time and does not wear off .", "line": "so far has lasted for a long time and does not wear off .", "masks": [4], "label": "1"}
+{"content": "they were awesome and they work great i like a lot thank you .", "line": "they were awesome and they work great i like them a lot thank you .", "masks": [9], "label": "1"}
+{"content": "the only thing is it stretches easily so be careful with that", "line": "the only thing is it stretches easily so be careful with that .", "masks": [12], "label": "1"}
+{"content": "this will compete with any of the line knife you can buy .", "line": "this will compete with any top of the line knife you can buy .", "masks": [5], "label": "1"}
+{"content": "dash mounts are either bulky and in the way or not enough .", "line": "dash mounts are either bulky and in the way or not strong enough .", "masks": [11], "label": "1"}
+{"content": "i bought this protective cover case for num_num cents plus .", "line": "i bought this protective cover case for num_num cents plus shipping .", "masks": [10], "label": "1"}
+{"content": "mine fit linen closet door with no securing necessary .", "line": "mine fit perfectly on my linen closet door with no securing necessary .", "masks": [2, 3, 4], "label": "1"}
+{"content": "with a good selection of teeth sizes .", "line": "very sturdy with a good selection of teeth sizes .", "masks": [0, 1], "label": "1"}
+{"content": "i use it a lot , and it never gave me problem .", "line": "i use it a lot ,  and it never gave me any problem .", "masks": [11], "label": "1"}
+{"content": "it s more so i expect it to be a little louder .", "line": "it s more powerful so i expect it to be a little louder .", "masks": [3], "label": "1"}
+{"content": "the handle pitchers securely in your hands .", "line": "the handle is comfortable and holds the pitchers securely in your hands .", "masks": [2, 3, 4, 5, 6], "label": "1"}
+{"content": "that said , the mic did pic up it could .", "line": "that said ,  the mic did pic up everything it could .", "masks": [8], "label": "1"}
+{"content": "i just bought a num_extend cubic ft freezer .", "line": "i just bought a num_extend cubic ft chest freezer .", "masks": [7], "label": "1"}
+{"content": "there are num_num leds for taking pictures or just as a flashlight .", "line": "there are num_num bright leds for taking pictures or just as a flashlight .", "masks": [3], "label": "1"}
+{"content": "no more oil on my hands up a steak or falafel .", "line": "no more oil on my hands when cooking up a steak or falafel .", "masks": [6, 7], "label": "1"}
+{"content": ".", "line": "it works great and i am very happy with it .", "masks": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "label": "1"}
+{"content": "the shipping charges are now lower and upfront the order .", "line": "the shipping charges are now lower and upfront on the order .", "masks": [8], "label": "1"}
+{"content": "i bought it a new iphone num_extend", "line": "i bought it for a new iphone num_extend", "masks": [3], "label": "1"}
+{"content": "i can t believe how beautiful substantial this ice cream maker is .", "line": "i can t believe how beautiful and substantial this ice cream maker is .", "masks": [6], "label": "1"}
+{"content": "i used a blade grinder for years before a burr grinder .", "line": "i used a blade grinder for years before buying a burr grinder  .", "masks": [8], "label": "1"}
+{"content": "this one does the job need it for ! .", "line": "this one does the job i need it for !  .", "masks": [5], "label": "1"}
+{"content": "i don t want bulk of an otterbox defender .", "line": "i don t want the bulk of an otterbox defender .", "masks": [4], "label": "1"}
+{"content": "the charger is working with my wireless bluetooth speaker just fine", "line": "the charger is working with my wireless bluetooth speaker just fine so far .", "masks": [11, 12, 13], "label": "1"}
+{"content": "although once you go a little past halfway the quality gets a little .", "line": "although once you go a little past halfway the quality gets a little worse .", "masks": [13], "label": "1"}
+{"content": "i m starting hate it because i don t need to upgrade .", "line": "i m starting to hate it because i don t need to upgrade .", "masks": [3], "label": "1"}
+{"content": "i guess you could say so what it s a .", "line": "i guess you could say so what it s a ladle .", "masks": [10], "label": "1"}
+{"content": "better than a blender", "line": "fast; better than a blender and is easy to use .", "masks": [0, 5, 6, 7, 8, 9, 10], "label": "1"}
+{"content": "overall i love them , and would probably buy them again", "line": "overall i love them ,  and would probably buy them again .", "masks": [11], "label": "1"}
+{"content": "i in different locations in my house .", "line": "i have two of them in different locations in my house .", "masks": [1, 2, 3, 4], "label": "1"}
+{"content": "the voice from the earpiece says connected on successful .", "line": "the voice from the earpiece says  connected  on successful completion .", "masks": [9], "label": "1"}
+{"content": "they come with full instructions and much more to say .", "line": "they come with full instructions and not much more to say .", "masks": [6], "label": "1"}
+{"content": "looking for them and you had them .", "line": "went looking for them and you had them .", "masks": [0], "label": "1"}
+{"content": "i have been extremely purchase .", "line": "i have been extremely happy with my purchase .", "masks": [4, 5, 6], "label": "1"}
+{"content": "the glass lids would pour water everywhere in a wet mess .", "line": "the glass cuisinart lids would pour water everywhere in a wet mess .", "masks": [2], "label": "1"}
+{"content": "i am that i did not spend a fortune on the electric models .", "line": "i am glad that i did not spend a fortune on the electric models .", "masks": [2], "label": "1"}
+{"content": "space on the pot rack .", "line": "it s very simple and takes up very little space on the pot rack .", "masks": [0, 1, 2, 3, 4, 5, 6, 7, 8], "label": "1"}
+{"content": "fill the pan half way with , and put it to boil .", "line": "fill the pan half way with water ,  and put it to boil .", "masks": [6], "label": "1"}
+{"content": "comes with towel to clean the phone before placement .", "line": "comes with a  towel  to clean the phone before placement .", "masks": [2], "label": "1"}
+{"content": "no battery to wear and have to replace .", "line": "no battery to wear out and have to replace .", "masks": [4], "label": "1"}
+{"content": "like said , it works , these are ok .", "line": "like i said ,  it works ,  these are ok .", "masks": [1], "label": "1"}
+{"content": "this job done for the price .", "line": "this gets the job done for the price .", "masks": [1, 2], "label": "1"}
+{"content": "seems to working fine in my s humidifier .", "line": "seems to working fine in my mother s humidifier .", "masks": [6], "label": "1"}
+{"content": "mediocre results until hitting upon cookbook .", "line": "mediocre results until hitting upon a great cookbook .", "masks": [5, 6], "label": "1"}
+{"content": "it pushed right through job with no trouble .", "line": "it pushed right through the job with no trouble .", "masks": [4], "label": "1"}
+{"content": "on the other hand for power you ve got something here .", "line": "on the other hand for power grating you ve got something here .", "masks": [6], "label": "1"}
+{"content": "the remaining sticker attached to the second film .", "line": "the remaining sticker is attached to the second film .", "masks": [3], "label": "1"}
+{"content": "i use it for my line of work and .", "line": "i use it for my line of work and it stands up .", "masks": [9, 10, 11], "label": "1"}
+{"content": "the cheese out light and fluffy wished i had had one earlier .", "line": "the cheese came out light and fluffy wished i had had one earlier .", "masks": [2], "label": "1"}
+{"content": "great headset , solid build quality and blocks out the wind", "line": "great headset ,  solid build quality and blocks out the wind .", "masks": [11], "label": "1"}
+{"content": "for example , box says there s an led battery indicator light .", "line": "for example ,  the box says there s an led battery indicator light .", "masks": [3], "label": "1"}
+{"content": "one corner is slightly taller than the but its hardly noticeable .", "line": "one corner is slightly taller than the other but its hardly noticeable .", "masks": [7], "label": "1"}
+{"content": "am so glad we chose this one .", "line": "i am so glad we chose this one .", "masks": [0], "label": "1"}
+{"content": "alot and they work great .", "line": "we use these alot and they work great .", "masks": [0, 1, 2], "label": "1"}
+{"content": "i that after trying many cheap pathetic headsets , sigh .", "line": "i say that after trying many cheap pathetic headsets ,  sigh .", "masks": [1], "label": "1"}
+{"content": "pretreated the worst stains withwoolite pet stain .", "line": "i pretreated the worst stains withwoolite pet stain .", "masks": [0], "label": "1"}
+{"content": "i phone onto a tile floor and it is fine .", "line": "i have dropped the phone onto a tile floor and it is fine .", "masks": [1, 2, 3], "label": "1"}
+{"content": "the la prima ran about half a shot then choked the machine", "line": "the la prima ran about half a shot then choked the machine .", "masks": [12], "label": "1"}
+{"content": "medium usage its closer to about num_num hours .", "line": "with medium usage its closer to about num_num hours .", "masks": [0], "label": "1"}
+{"content": "there are num_num blue lights to indicate the level of the unit charge .", "line": "there are num_num blue lights to indicate the level of the unit s charge .", "masks": [12], "label": "1"}
+{"content": "the bottom most container is as small as one would think .", "line": "the bottom most container is not as small as one would think .", "masks": [5], "label": "1"}
+{"content": "that s what it does", "line": "that s what it does and it does it well .", "masks": [5, 6, 7, 8, 9, 10], "label": "1"}
+{"content": "recomiendo este vendedor tengo total seguridad que es una bella y honesta persona .", "line": "recomiendo este vendedor porque tengo total seguridad que es una bella y honesta persona .", "masks": [3], "label": "1"}
+{"content": "however , this is an example how rosle got it right .", "line": "however ,  this is an example of how rosle got it right .", "masks": [6], "label": "1"}
+{"content": "it fulfills my modest requirements , and exceeds my in appearance .", "line": "it fulfills my modest requirements ,  and exceeds my expectations in appearance .", "masks": [9], "label": "1"}
+{"content": "some reviewers complained of in the coffee .", "line": "some reviewers complained of grounds in the coffee .", "masks": [4], "label": "1"}
+{"content": "i had installed two of these for the front of our house .", "line": "i had installed two of these for the front entrance of our house .", "masks": [9], "label": "1"}
+{"content": "look up videos on swype you want to see it in action .", "line": "look up videos on swype if you want to see it in action .", "masks": [5], "label": "1"}
+{"content": "i like that is washable .", "line": "i like that is is durable and washable .", "masks": [4, 5, 6], "label": "1"}
+{"content": "the aluminum ones get stained ugly after a few uses .", "line": "the aluminum ones get stained and ugly after a few uses .", "masks": [5], "label": "1"}
+{"content": "i was torn between ordering the wagner steam and this mcculloch steam cleaner .", "line": "i was torn between ordering the wagner steam cleaner and this mcculloch steam cleaner .", "masks": [8], "label": "1"}
+{"content": "adds some bulk to phone not a large amount .", "line": "adds some bulk to phone but not a large amount .", "masks": [5], "label": "1"}
+{"content": "place it in the freezer and door .", "line": "place it in the freezer and close the door .", "masks": [6, 7], "label": "1"}
+{"content": "open carefully and handle zippers with care .", "line": "open carefully and handle the zippers with care .", "masks": [4], "label": "1"}
+{"content": "it had cost product .", "line": "it had a great cost and a great product .", "masks": [2, 3, 5, 6, 7], "label": "1"}
+{"content": "you do have to hold a when catching the meat you re grinding .", "line": "you do have to hold a bowl when catching the meat you re grinding .", "masks": [6], "label": "1"}
+{"content": "these type honeywells have been around a time .", "line": "these type honeywells have been around a long time .", "masks": [7], "label": "1"}
+{"content": "i have had no problem with either piece the products .", "line": "i have had no problem with either piece and highly recommend the products .", "masks": [8, 9, 10], "label": "1"}
+{"content": "it stays your surprisingly very comfortable .", "line": "it stays stable in your ear very nicely and is surprisingly very comfortable .", "masks": [2, 3, 5, 6, 7, 8, 9], "label": "1"}
+{"content": "butter bell buy .", "line": "this little butter bell is a fantastic buy .", "masks": [0, 1, 4, 5, 6], "label": "1"}
+{"content": "this headset is , the sound quality is truly amazing .", "line": "this headset is awesome ,  the sound quality is truly amazing .", "masks": [3], "label": "1"}
+{"content": "i would have a five star if the packaging with some bubble wrap .", "line": "i would have given a five star if the packaging with some bubble wrap .", "masks": [3], "label": "1"}
+{"content": "nothing bad say about this wonderful innovation at all .", "line": "nothing bad to say about this wonderful innovation at all .", "masks": [2], "label": "1"}
+{"content": "it clean and does not collect food stains .", "line": "it stay clean and does not collect food stains .", "masks": [1], "label": "1"}
+{"content": "i never have problems answering the phone this with my blackberry .", "line": "i never have problems answering the phone this way with my blackberry .", "masks": [8], "label": "1"}
+{"content": ".", "line": "easy to apply and it works very well .", "masks": [0, 1, 2, 3, 4, 5, 6, 7], "label": "1"}
+{"content": "i wore my one out by pouring hot gravies in it .", "line": "i wore my first one out by pouring hot gravies in it .", "masks": [3], "label": "1"}
+{"content": "also , don t use that yellow to clean your phone .", "line": "also ,  don t use that yellow cloth to clean your phone .", "masks": [7], "label": "1"}
+{"content": "the cord extra heavy to resist tangling .", "line": "the cord is extra heavy to resist tangling .", "masks": [2], "label": "1"}
+{"content": "i purchased these batteries based on the reviews of others", "line": "i purchased these batteries based on the reviews of others .", "masks": [10], "label": "1"}
+{"content": "doesn really reduce the fat anymore than most cooking methods .", "line": "doesn t really reduce the fat anymore than most cooking methods .", "masks": [1], "label": "1"}
+{"content": "it is hard to go to anything else now that i this .", "line": "it is hard to go to anything else now that i have used this .", "masks": [11, 12], "label": "1"}
+{"content": "the cookbook that comes with is adequate .", "line": "the cookbook that comes with it is adequate .", "masks": [5], "label": "1"}
+{"content": "sometimes i m there for up num_num hours .", "line": "sometimes i m there for up to num_num hours .", "masks": [6], "label": "1"}
+{"content": "has a num_num year warranty on defects too .", "line": "it has a num_num year warranty on defects too .", "masks": [0], "label": "1"}
+{"content": "this cover to do .", "line": "this cover does exactly what it is designed to do .", "masks": [2, 3, 4, 5, 6, 7], "label": "1"}
+{"content": "easily moved to locations depending on need .", "line": "easily moved to various locations depending on need .", "masks": [3], "label": "1"}
+{"content": "i have read reviews from wine that it doesn t work .", "line": "i have read reviews from wine experts that it doesn t work .", "masks": [6], "label": "1"}
+{"content": "and do not remove part one the screen until part two is applied .", "line": "and do not remove part one of the screen until part two is applied .", "masks": [6], "label": "1"}
+{"content": "i would have hated to put disposable filters every time when coffee maker .", "line": "i would have hated to put disposable filters every time when using coffee maker .", "masks": [11], "label": "1"}
+{"content": "when purchased i discovered was a newer product update : model num_extend", "line": "when purchased i discovered there was a newer product update :  model num_extend", "masks": [4], "label": "1"}
+{"content": "i just got this and recently got a chance to use .", "line": "i just got this and recently got a chance to use it .", "masks": [11], "label": "1"}
+{"content": "along came this zester which i use constantly .", "line": "then along came this zester which i use constantly .", "masks": [0], "label": "1"}
+{"content": "i purchased it from of the first infomercials .", "line": "i purchased it from one of the first  infomercials  .", "masks": [4], "label": "1"}
+{"content": "i recommand smaller size for everyday use . pan .", "line": "i recommand smaller size for everyday use . but i like this pan .", "masks": [8, 9, 10, 11], "label": "1"}
+{"content": "toasts bread , muffins and bagels with lots of options to .", "line": "toasts bread ,  muffins and bagels with lots of options to choose .", "masks": [11], "label": "1"}
+{"content": "tastes between the classic american blonde ale and cowboy golden lager .", "line": "tastes in between the classic american blonde ale and cowboy golden lager .", "masks": [1], "label": "1"}
+{"content": "i purchased the screen protectors for my .", "line": "i purchased the screen protectors for my evo .", "masks": [7], "label": "1"}
+{"content": "put homemade sauce on top then add pepperoni and fresh mushrooms .", "line": "put homemade pizza sauce on top then add pepperoni and fresh mushrooms .", "masks": [2], "label": "1"}
+{"content": "this is the old faithful water filter .", "line": "this is the old faithful water filter pitcher .", "masks": [7], "label": "1"}
+{"content": "i shall be ordering a second not too distant future .", "line": "i shall be ordering a second one in the not too distant future .", "masks": [6, 7, 8], "label": "1"}
+{"content": "would five stars if it was out of slightly heavier material .", "line": "would be five stars if it was out of slightly heavier material .", "masks": [1], "label": "1"}
+{"content": "a bread machine dough and provide the first rise .", "line": "we use a bread machine to prepare the dough and provide the first rise .", "masks": [0, 1, 5, 6, 7], "label": "1"}
+{"content": "i ve been happy with most oxo products i ve .", "line": "i ve been happy with most oxo products i ve purchased .", "masks": [10], "label": "1"}
+{"content": "it s to go the next morning , completely clean .", "line": "it s good to go the next morning ,  completely clean .", "masks": [2], "label": "1"}
+{"content": "other than that small problem , bt headdest .", "line": "other than that small problem ,  this is a great bt headdest .", "masks": [6, 7, 8, 9], "label": "1"}
+{"content": "i followed the and threw away the first num_num batches of coffee .", "line": "i followed the instructions and threw away the first num_num batches of coffee .", "masks": [3], "label": "1"}
+{"content": "loved the deffender case hated the apple .", "line": "loved the deffender case hated the apple phone .", "masks": [7], "label": "1"}
+{"content": "it can t be tightened at point to fix it .", "line": "it can t be tightened at that point to fix it .", "masks": [6], "label": "1"}
+{"content": "wrapped around me easily to in for getting ready at the gym .", "line": "wrapped around me easily to tuck in for getting ready at the gym .", "masks": [5], "label": "1"}
+{"content": "so i purchased another knife sharpener for our num_num yankee swap .", "line": "so i purchased another knife sharpener for this our num_num yankee swap .", "masks": [7], "label": "1"}
+{"content": "blade release buttons are simple to use which makes cleaning .", "line": "blade release buttons are simple to use which makes cleaning easy .", "masks": [10], "label": "1"}
+{"content": "i ordered it and it was well in time .", "line": "i ordered it and it was delivered well in time .", "masks": [6], "label": "1"}
+{"content": "i bought this is a for my brother .", "line": "i bought this is a gift for my brother .", "masks": [5], "label": "1"}
+{"content": ": pi also have limited space in my .", "line": ": pi also have limited space in my kitchen .", "masks": [8], "label": "1"}
+{"content": "wish it had crank or something to make it easier .", "line": "wish it had a crank or something to make it easier .", "masks": [3], "label": "1"}
+{"content": "maintenance cleaning neglected cleaning takes more time and repeated cleanings .", "line": "maintenance cleaning is fast ,  neglected cleaning takes more time and repeated cleanings .", "masks": [2, 3, 4], "label": "1"}
+{"content": "i because the jar is plastic .", "line": "i also love it because the jar is plastic .", "masks": [1, 2, 3], "label": "1"}
+{"content": "as by the many reviews , this is an exceptinal carpet cleaner .", "line": "as stated by the many reviews ,  this is an exceptinal carpet cleaner .", "masks": [1], "label": "1"}
+{"content": "delicious over fruit and kashii go crunch cereal .", "line": "delicious over fruit and kashii go lean crunch cereal .", "masks": [6], "label": "1"}
+{"content": "you ve probably seen them it on iron chef .", "line": "you ve probably seen them use it on iron chef .", "masks": [5], "label": "1"}
+{"content": "i think that dsp manager is the stock one for android .", "line": "i think that dsp manager is the stock one for android phones .", "masks": [11], "label": "1"}
+{"content": "i purchased this replace a knife that was lost .", "line": "i purchased this to replace a knife that was lost .", "masks": [3], "label": "1"}
+{"content": "it have been perfect if it was a tad bit smaller .", "line": "it would have been perfect if it was a tad bit smaller .", "masks": [1], "label": "1"}
+{"content": "all came well and", "line": "all came well sharpened and ready to go .", "masks": [3, 5, 6, 7, 8], "label": "1"}
+{"content": "i have had two of these cans for over a year .", "line": "i have had two of these cans outside for over a year .", "masks": [7], "label": "1"}
+{"content": "this cuts down waste and you don t have to ingest harmful propellants .", "line": "this cuts down on waste and you don t have to ingest harmful propellants .", "masks": [3], "label": "1"}
+{"content": "i ve tried the pulls with prongs that go along side cork .", "line": "i ve tried the pulls with prongs that go along side the cork .", "masks": [11], "label": "1"}
+{"content": "games like journey are easier to play with a stylus like this .", "line": "games like gem journey are easier to play with a stylus like this .", "masks": [2], "label": "1"}
+{"content": "if you have more than one guest to serve .", "line": "it is great if you have more than one guest to serve .", "masks": [0, 1, 2], "label": "1"}
+{"content": "i made beef bolognese in the it turned", "line": "i made beef bolognese in the oven and it turned out wonderfully .", "masks": [6, 7, 10, 11, 12], "label": "1"}
+{"content": "i got as a gift for my son .", "line": "i got this as a gift for my son .", "masks": [2], "label": "1"}
+{"content": "i think this size wont do a bigger bird num_num pounds .", "line": "i think this size wont do a bigger bird than num_num pounds .", "masks": [9], "label": "1"}
+{"content": "making seperation and cross contamination containment a .", "line": "making seperation and cross contamination containment a very easy .", "masks": [7, 8], "label": "1"}
+{"content": "i cannot wait ! thank you ! .", "line": "i cannot wait to show it off ! thank you !  .", "masks": [3, 4, 5, 6], "label": "1"}
+{"content": "the roomba thinks it s furniture and doesn t go up on it .", "line": "the roomba just thinks it s furniture and doesn t go up on it .", "masks": [2], "label": "1"}
+{"content": "the spoons would make stocking stuffer for any kitchen queen .", "line": "the measuring spoons would make a great stocking stuffer for any kitchen queen .", "masks": [1, 5, 6], "label": "1"}
+{"content": "the zester was after use .", "line": "the zester was easy enough to clean after use .", "masks": [3, 4, 5, 6], "label": "1"}
+{"content": "but for , i m quite happy with this .", "line": "but for now ,  i m quite happy with this .", "masks": [2], "label": "1"}
+{"content": "perfect size dishes .", "line": "perfect size for preparing dishes . it really works well .", "masks": [2, 3, 6, 7, 8, 9, 10], "label": "1"}
+{"content": "last time i did it was a year ago .", "line": "the last time i did it was a year ago  .", "masks": [0], "label": "1"}
+{"content": "this product is being used for dollar size pancakes", "line": "this product is being used for dollar size pancakes .", "masks": [9], "label": "1"}
+{"content": "i my pocket and use it when i need to .", "line": "i can carry it in my pocket and use it when i need to .", "masks": [1, 2, 3, 4], "label": "1"}
+{"content": "tiny green light on one side is very bright when fully charged .", "line": "the tiny green light on one side is very bright when fully charged .", "masks": [0], "label": "1"}
+{"content": "apparently there are thirteen more words required to successfully submit this .", "line": "apparently there are thirteen more words required to successfully submit this review .", "masks": [11], "label": "1"}
+{"content": "to set by the stove .", "line": "love it !  really handy to set by the stove .", "masks": [0, 1, 2, 3, 4], "label": "1"}
+{"content": "adequately long cord . made in china hence no reliability .", "line": "adequately long cord . made in china ,  hence no reliability .", "masks": [7], "label": "1"}
+{"content": "but this one does the job", "line": "but this one does the job very nicely .", "masks": [6, 7, 8], "label": "1"}
+{"content": "i m a fan of symbian and find operate .", "line": "i m a fan of symbian and find it easy to operate .", "masks": [8, 9, 10], "label": "1"}
+{"content": "plugs the ipad into my car", "line": "plugs the ipad into my car and works great .", "masks": [6, 7, 8, 9], "label": "1"}
+{"content": "m convinced vacuum sealing works just as advertised .", "line": "i m convinced vacuum sealing works just as advertised .", "masks": [0], "label": "1"}
+{"content": "i like it better than any of the items .", "line": "i like it better than any of the forman items .", "masks": [8], "label": "1"}
+{"content": "i use this thing out the inside of a potato .", "line": "i use this thing to core out the inside of a potato .", "masks": [4, 5], "label": "1"}
+{"content": "once it dies i a better unit .", "line": "once it dies i will purchase a better unit .", "masks": [4, 5], "label": "1"}
+{"content": "otterboxes are a little bulky but nothing protects better for the price .", "line": "otterboxes are a little bulky ,  but nothing protects better for the price .", "masks": [5], "label": "1"}
+{"content": "this style of meat pounder is sort of like .", "line": "this style of meat pounder is sort of commodity like .", "masks": [8], "label": "1"}
+{"content": "to have a burner going for hours .", "line": "nice not to have a burner going for hours .", "masks": [0, 1], "label": "1"}
+{"content": "i can believe i haven t owned one of these before .", "line": "i can t believe i haven t owned one of these before .", "masks": [2], "label": "1"}
+{"content": "this unit french fries i ve ever made .", "line": "this unit makes the best french fries i ve ever made .", "masks": [2, 3, 4], "label": "1"}
+{"content": "it s probably my phone but it happens constantly since i got the .", "line": "it s probably my phone but it happens constantly since i got the battery .", "masks": [13], "label": "1"}
+{"content": "works with all types , but works best with roma tomatoes .", "line": "it works with all types ,  but works best with roma tomatoes .", "masks": [0], "label": "1"}
+{"content": "careful when using steak knives however because they scratch these plates .", "line": "careful when using steak knives however because they will scratch these plates .", "masks": [8], "label": "1"}
+{"content": "plates with a paper towel .", "line": "just wipe the plates with a paper towel .", "masks": [0, 1, 2], "label": "1"}
+{"content": "i t believe that i didn t buy these sooner .", "line": "i can t believe that i didn t buy these sooner .", "masks": [1], "label": "1"}
+{"content": "the recipe that comes with it is .", "line": "the recipe that comes with it is tasty .", "masks": [7], "label": "1"}
+{"content": "great , i just needed more capacity .", "line": "it s still going great ,  i just needed more capacity .", "masks": [0, 1, 2, 3], "label": "1"}
+{"content": "also , the knife despite its length .", "line": "also ,  the knife is easy to maneuver despite its length .", "masks": [4, 5, 6, 7], "label": "1"}
+{"content": "i have no doubt that it will hold up well through the years", "line": "i have no doubt that it will hold up well through the years .", "masks": [13], "label": "1"}
+{"content": "i had problems , one caused the rating to num_num num_extend", "line": "i had two problems ,  one caused the rating to num_num num_extend", "masks": [2], "label": "1"}
+{"content": "it stays on and i unplug it .", "line": "it stays on and i unplug it when it s done .", "masks": [7, 8, 9, 10], "label": "1"}
+{"content": "for the price , this is a buy .", "line": "for the price ,  this is a good buy .", "masks": [7], "label": "1"}
+{"content": "i had a less one for num_num years before it finally gave out .", "line": "i had a less powerful one for num_num years before it finally gave out .", "masks": [4], "label": "1"}
+{"content": "and it s a bread knife and nothing all special .", "line": "and it s a bread knife and nothing all that special .", "masks": [9], "label": "1"}
+{"content": "no need to find storage place because any shallow drawer .", "line": "no need to find storage place because it fits in any shallow drawer .", "masks": [7, 8, 9], "label": "1"}
+{"content": "used to use a good cooks brand safety opener and really liked it .", "line": "i used to use a good cooks brand safety opener and really liked it .", "masks": [0], "label": "1"}
+{"content": "then both of them go into the dishwasher", "line": "then both of them go into the dishwasher .", "masks": [8], "label": "1"}
+{"content": "i love my lodge omelet pan and use morning .", "line": "i love my lodge omelet pan and use it almost every morning .", "masks": [8, 9, 10], "label": "1"}
+{"content": "tablets slowly , but that s to be expected .", "line": "tablets charge slowly ,  but that s to be expected .", "masks": [1], "label": "1"}
+{"content": "however signal between transmitter and receiver does not work between patio glass door .", "line": "however signal between transmitter and receiver does not work between insulated patio glass door .", "masks": [10], "label": "1"}
+{"content": "pan i have had for one year .", "line": "this pan i have had for one year .", "masks": [0], "label": "1"}
+{"content": "do seem to need to invest in some better popcorn .", "line": "i do seem to need to invest in some better popcorn .", "masks": [0], "label": "1"}
+{"content": "bento spoon and the boker knife which is quite nice", "line": "bento spoon and the boker knife which is quite nice .", "masks": [10], "label": "1"}
+{"content": "really confused ppl riding with at first .", "line": "really confused ppl riding with me at first .", "masks": [5], "label": "1"}
+{"content": "i finally made he purchase and glad i did .", "line": "i finally made he purchase and am glad i did .", "masks": [6], "label": "1"}
+{"content": "i can t when i first bought this timer .", "line": "i can t remember when i first bought this timer .", "masks": [3], "label": "1"}
+{"content": "it does all over the place when using .", "line": "it does not slip all over the place when using .", "masks": [2, 3], "label": "1"}
+{"content": "coming from an asian background it s not something we normally with .", "line": "coming from an asian background it s not something we normally cook with .", "masks": [11], "label": "1"}
+{"content": "it should reconnect easily when are in the num_extend", "line": "it should reconnect easily when you are in the num_extend", "masks": [5], "label": "1"}
+{"content": "to buy a catch can for the bottle tops .", "line": "now i just need to buy a catch can for the bottle tops .", "masks": [0, 1, 2, 3], "label": "1"}
+{"content": "i have had to replace the paddles as they wore .", "line": "i have had to replace the paddles as they wore out .", "masks": [10], "label": "1"}
+{"content": "i liked this and was purchase .", "line": "i liked this and was happy with my purchase .", "masks": [5, 6, 7], "label": "1"}
+{"content": "we juiced our garden lettuce greens with ease .", "line": "we juiced our garden lettuce and greens with ease .", "masks": [5], "label": "1"}
+{"content": "anyway one for its price and quality .", "line": "anyway i recommend this one for its price and quality .", "masks": [1, 2, 3], "label": "1"}
+{"content": "i put my kitchen appliances the ringer .", "line": "i put my kitchen appliances through the ringer .", "masks": [5], "label": "1"}
+{"content": "i have been missing out ! this thing .", "line": "i have been missing out !  this thing is so sharp .", "masks": [8, 9, 10], "label": "1"}
+{"content": "but honestly i rarely clean it .", "line": "it is easy to clean ,  but honestly i rarely clean it .", "masks": [0, 1, 2, 3, 4, 5], "label": "1"}
+{"content": "hand graters can be a mess especially under the handle .", "line": "hand graters can be a mess to clean ,  especially under the handle .", "masks": [6, 7, 8], "label": "1"}
+{"content": "you have to break it in , in words .", "line": "you have to break it in ,  in other words .", "masks": [8], "label": "1"}
+{"content": "the price was good , and came quickly though prime membership .", "line": "the price was good ,  and came quickly though my prime membership .", "masks": [9], "label": "1"}
+{"content": "for my purpose item .", "line": "for my purpose this is the perfect item .", "masks": [3, 4, 5, 6], "label": "1"}
+{"content": "we both use the num_num curve , which each use bluetooth version num_extend", "line": "we both use the blackberry num_num curve ,  which each use bluetooth version num_extend", "masks": [4], "label": "1"}
+{"content": "great case , very durable .", "line": "great case ,  easy to use and very durable .", "masks": [3, 4, 5, 6], "label": "1"}
+{"content": "need a car charger and it seems to do the job .", "line": "need a cheap car charger and it seems to do the job .", "masks": [2], "label": "1"}
+{"content": "i recently purchased white rice popcorn for my dad who has .", "line": "i recently purchased  white rice  popcorn for my dad who has diverticulitious .", "masks": [11], "label": "1"}
+{"content": "have it", "line": "have been using it daily since it arrived .", "masks": [1, 2, 4, 5, 6, 7, 8], "label": "1"}
+{"content": "this casserole dish size nice lid .", "line": "this casserole dish is the perfect size and i love having a nice lid .", "masks": [3, 4, 5, 7, 8, 9, 10, 11], "label": "1"}
+{"content": "unless you have very small or very large hands it is .", "line": "unless you have very small or very large hands it is comfortable to use .", "masks": [11, 12, 13], "label": "1"}
+{"content": "i square and round pan i use this with .", "line": "i have both a square and round pan i use this with .", "masks": [1, 2, 3], "label": "1"}
+{"content": "i have never had a pleasant experience with the customer support cuisnart .", "line": "i have never had a pleasant experience with the customer support at cuisnart .", "masks": [11], "label": "1"}
+{"content": "much to my dismay the invisishield was nothing but garbage .", "line": "much to my dismay ,  the invisishield was nothing but garbage .", "masks": [4], "label": "1"}
+{"content": "we love that straight from the stove top to the", "line": "we love that it can go straight from the stove top to the oven .", "masks": [3, 4, 5, 13, 14], "label": "1"}
+{"content": "it creates heaping folds of foam andturns coffee into a breve latte .", "line": "it creates heaping folds of foam andturns your coffee into a breve latte .", "masks": [7], "label": "1"}
+{"content": "i never thought about until ree drummond made some on her show .", "line": "i never thought about making cheese until ree drummond made some on her show .", "masks": [4, 5], "label": "1"}
+{"content": "i though it would be faster and easier it wasn t .", "line": "i though it would be faster and easier but it wasn t .", "masks": [8], "label": "1"}
+{"content": "it very good quality in its build .", "line": "it seems to be of very good quality in its build .", "masks": [1, 2, 3, 4], "label": "1"}
+{"content": "i have smaller bt headsets that last hours longer .", "line": "i have smaller bt headsets that last num_num hours longer .", "masks": [7], "label": "1"}
+{"content": "may be it will become soft with use and then should be fine .", "line": "may be it will become soft with use and then it should be fine .", "masks": [10], "label": "1"}
+{"content": "it is the handiest thing potatoes for scalloped potatoes and chips .", "line": "it is the handiest thing for slicing potatoes for scalloped potatoes and chips .", "masks": [5, 6], "label": "1"}
+{"content": "i have one for nearly num_num years .", "line": "i have been using one for nearly num_num years .", "masks": [2, 3], "label": "1"}
+{"content": "researched before i bought it and had actually chosen another .", "line": "researched before i bought it and had actually chosen another one .", "masks": [10], "label": "1"}
+{"content": "the coffee hot and fresh for hours .", "line": "it keeps it the coffee hot and fresh for hours .", "masks": [0, 1, 2], "label": "1"}
+{"content": "you need a pot with this capacity num_extend qts buy this one .", "line": "if you need a pot with this capacity num_extend qts  buy this one .", "masks": [0], "label": "1"}
+{"content": "more creative than num_extend dont think so ! but still product .", "line": "more creative than num_extend dont think so !  but still a great product .", "masks": [10, 11], "label": "1"}
+{"content": "its like that showtime rotisserrie you and forget it .", "line": "its like that showtime rotisserrie oven ,  you set it and forget it .", "masks": [5, 6, 8, 9], "label": "1"}
+{"content": "this what s affordable right now , so it has to do .", "line": "this is what s affordable right now ,  so it has to do .", "masks": [1], "label": "1"}
+{"content": "i followed the guidance and am grateful for .", "line": "i followed the guidance and am grateful for it .", "masks": [8], "label": "1"}
+{"content": "in particular , the coating on this cookware has cheapened .", "line": "in particular ,  the coating on this cookware has been cheapened .", "masks": [9], "label": "1"}
+{"content": "fits , cutouts are plsced where they should be .", "line": "fits perfectly ,  cutouts are plsced where they should be .", "masks": [1], "label": "1"}
+{"content": "i ve only charged once since i bought it .", "line": "i ve only charged it once since i bought it .", "masks": [4], "label": "1"}
+{"content": "i also like the adjustable heat for the warming plate .", "line": "i also like the adjustable heat option for the warming plate .", "masks": [6], "label": "1"}
+{"content": "i still have privacy screen after num_num months .", "line": "i still have privacy screen ,  after num_num months .", "masks": [5], "label": "1"}
+{"content": "it it pretty hardy i haven t broken it yet .", "line": "it it pretty hardy ,  i haven t broken it yet .", "masks": [4], "label": "1"}
+{"content": "i will update my review after num_num months", "line": "i will update my review after num_num months .", "masks": [8], "label": "1"}
+{"content": "i purchased two to mount horizontally under the shelves of my kitchen .", "line": "i purchased two to mount horizontally under the shelves of my kitchen island .", "masks": [12], "label": "1"}
+{"content": "cheaper than going to the grocery store .", "line": "also cheaper than going to the grocery store .", "masks": [0], "label": "1"}
+{"content": "no and my wife loves the color .", "line": "no complaints and my wife loves the color .", "masks": [1], "label": "1"}
+{"content": "i m not sure why this got so many mixed reviews .", "line": "i m not sure why this grinder got so many mixed reviews .", "masks": [6], "label": "1"}
+{"content": "these small cookie scoops made uniform two inch cookies .", "line": "these small cookie scoops made perfectly uniform two inch cookies .", "masks": [5], "label": "1"}
+{"content": "voice is better on this set than other ones i ve tried .", "line": "voice command is better on this set than other ones i ve tried .", "masks": [1], "label": "1"}
+{"content": "tongs seem to have the locking mechanism backwards .", "line": "these tongs seem to have the locking mechanism backwards .", "masks": [0], "label": "1"}
+{"content": "get it , it s price for sure .", "line": "get it ,  it s worth the price for sure .", "masks": [5, 6], "label": "1"}
+{"content": "there is no warming plate in the unit but it doesn t", "line": "there is no warming plate in the unit but it doesn t need one .", "masks": [12, 13, 14], "label": "1"}
+{"content": "things i notice so far : + bluetooth streaming is solid .", "line": "things i notice so far : + bluetooth num_extend streaming is solid .", "masks": [8], "label": "1"}
+{"content": "i use it charge my batteries since my usb port is not an .", "line": "i use it charge my batteries since my usb port is not an option .", "masks": [13], "label": "1"}
+{"content": "fasy to keep and a real treasure .", "line": "fasy to keep clean and a real treasure .", "masks": [3], "label": "1"}
+{"content": "you don t misplace the spout stopper .", "line": "just make sure that you don t misplace the spout stopper .", "masks": [0, 1, 2, 3], "label": "1"}
+{"content": "i received them as christmas present and i love them .", "line": "i received them as a christmas present and i love them .", "masks": [4], "label": "1"}
+{"content": "it did it was supposed to do .", "line": "it did what it was supposed to do .", "masks": [2], "label": "1"}
+{"content": "put num_num quart of water into the .", "line": "put num_num quart of water into the machine .", "masks": [7], "label": "1"}
+{"content": "cord out of the way and above the board .", "line": "this keeps the cord out of the way and above the board .", "masks": [0, 1, 2], "label": "1"}
+{"content": "i use is for more than deep .", "line": "i use is for more than deep frying .", "masks": [7], "label": "1"}
+{"content": "i sprinkle a little flour on the before stamping to prevent sticking .", "line": "i sprinkle a little flour on the rolls before stamping to prevent sticking .", "masks": [7], "label": "1"}
+{"content": "it was the finger to his hole finger .", "line": "it was the finger next to his hole finger .", "masks": [4], "label": "1"}
+{"content": "it s almost putting the phone into a high end pair of socks .", "line": "it s almost like putting the phone into a high end pair of socks .", "masks": [3], "label": "1"}
+{"content": "we are ice cream lovers and fussy about the of ice cream .", "line": "we are ice cream lovers and fussy about the quality of ice cream .", "masks": [9], "label": "1"}
+{"content": "also these attachment pieces are", "line": "also these attachment pieces are very easy to clean .", "masks": [5, 6, 7, 8, 9], "label": "1"}
+{"content": "was delifery was num_num days late .", "line": "only negative was delifery was num_num days late .", "masks": [0, 1], "label": "1"}
+{"content": "i just received a replacement curve from verizon .", "line": "i just received a replacement bb curve from verizon .", "masks": [5], "label": "1"}
+{"content": "oh and the battery life is pretty decent .", "line": "oh ,  and the battery life is pretty decent .", "masks": [1], "label": "1"}
+{"content": "i dropped phone once and the case held up", "line": "i dropped phone once and the case held up perfectly .", "masks": [9, 10], "label": "1"}
+{"content": "i installed this on a horizantaly sliding window", "line": "i installed this on a horizantaly sliding window .", "masks": [8], "label": "1"}
+{"content": "mixer , wasn t near as loud as some were saying .", "line": "love this mixer ,  wasn t near as loud as some were saying .", "masks": [0, 1], "label": "1"}
+{"content": "these wine stoppers are very certainly do the job .", "line": "these wine stoppers are very inexpensive and certainly do the job .", "masks": [5, 6], "label": "1"}
+{"content": "and neat to store and access all of your scarves .", "line": "it makes it easy and neat to store and access all of your scarves .", "masks": [0, 1, 2, 3], "label": "1"}
+{"content": "glad i went for this one over some of the less expensive .", "line": "glad i went for this one over some of the less expensive ones .", "masks": [12], "label": "1"}
+{"content": "cleans up nice and cooks in a reasonable amount of time .", "line": "cleans up nice and cooks waffles in a reasonable amount of time .", "masks": [5], "label": "1"}
+{"content": "short blades and longer handles give you the leverage tough cutting .", "line": "short blades and longer handles give you the leverage you need for tough cutting .", "masks": [9, 10, 11], "label": "1"}
+{"content": "and it s much much cheaper than getting it at the cusinart site .", "line": "and it s much much cheaper than getting it at the cusinart parts site .", "masks": [12], "label": "1"}
+{"content": "then into my phone and it my phone .", "line": "then into my phone and it chargers my phone .", "masks": [6], "label": "1"}
+{"content": "great dutch works well and fun to use on camping trips .", "line": "great dutch oven ,  works well and fun to use on camping trips .", "masks": [2, 3], "label": "1"}
+{"content": "the otterbox defender series is", "line": "the otterbox defender series is by far the best available .", "masks": [5, 6, 7, 8, 9, 10], "label": "1"}
+{"content": "this turner has worked well for the last few years", "line": "this turner has worked well for the last few years .", "masks": [10], "label": "1"}
+{"content": "but i like the phone to be up higher on the windshield", "line": "but i like the phone to be up higher on the windshield . recommended .", "masks": [12, 13, 14], "label": "1"}
+{"content": "heavy , patterned glass , and looking on the table .", "line": "heavy ,  patterned glass ,  and very classy looking on the table .", "masks": [6, 7], "label": "1"}
+{"content": "i have not been able to stop it .", "line": "i have not been able to stop using it .", "masks": [7], "label": "1"}
+{"content": "however , up tons of veggies can be quite time consuming .", "line": "however ,  slicing up tons of veggies can be quite time consuming .", "masks": [2], "label": "1"}
+{"content": "i mainly use my blentec now but haven t sold the vitamix yet", "line": "i mainly use my blentec now but haven t sold the vitamix yet .", "masks": [13], "label": "1"}
+{"content": "i was glad to see it was still .", "line": "i was glad to see it was still available .", "masks": [8], "label": "1"}
+{"content": ", no bubbles whatsoever .", "line": "very easy to put on ,  no bubbles whatsoever .", "masks": [0, 1, 2, 3, 4], "label": "1"}
+{"content": "i can see i will be using a lot .", "line": "i can see i will be using it a lot .", "masks": [7], "label": "1"}
+{"content": "i was concerned for the price that cups would be flimsy .", "line": "i was concerned for the price that these measuring cups would be flimsy .", "masks": [7, 8], "label": "1"}
+{"content": "the is the heft of the phone .", "line": "the complication is the heft of the phone .", "masks": [1], "label": "1"}
+{"content": "i have owned it for two years and it is a work horse", "line": "i have owned it for two years and it is a work horse .", "masks": [13], "label": "1"}
+{"content": "i used this set with a toaster with a coleman camping", "line": "i used this set with a toaster oven and with a coleman camping oven .", "masks": [7, 8, 13, 14], "label": "1"}
+{"content": "i bought the lowest model more to test the brand than anything else .", "line": "i bought the lowest priced model more to test the brand than anything else .", "masks": [4], "label": "1"}
+{"content": "you place all the ingredients into the bread .", "line": "you place all the ingredients into the bread maker .", "masks": [8], "label": "1"}
+{"content": "my dish feels very solid to the .", "line": "my dish feels very solid to the touch .", "masks": [7], "label": "1"}
+{"content": "this is definitely not the with the num_extend", "line": "this is definitely not the case with the num_extend", "masks": [5], "label": "1"}
+{"content": "i don t devise .", "line": "i don t know how i ever managed without this handy devise .", "masks": [3, 4, 5, 6, 7, 8, 9, 10], "label": "1"}
+{"content": "but these knives are their price .", "line": "but these knives are well worth their price .", "masks": [4, 5], "label": "1"}
+{"content": "the loops stop any accidently or intentional disappearance .", "line": "the loops stop any accidently lost or intentional disappearance .", "masks": [5], "label": "1"}
+{"content": "i bought xylitol and truvia sweeteners into a powder .", "line": "i bought this to grind xylitol and truvia sweeteners into a powder for cooking .", "masks": [2, 3, 4, 12, 13], "label": "1"}
+{"content": "we usually run it on low and it is relatively quite", "line": "we usually run it on low and it is relatively quite .", "masks": [11], "label": "1"}
+{"content": "phone very quickly and to full % battery .", "line": "it charges my phone very quickly and to full % battery .", "masks": [0, 1, 2], "label": "1"}
+{"content": "money , wouldn t want", "line": "well worth the money ,  wouldn t want to be without it .", "masks": [0, 1, 2, 8, 9, 10, 11, 12], "label": "1"}
+{"content": "i will never have phone without an otterbox again .", "line": "i will never have a phone without an otterbox again .", "masks": [4], "label": "1"}
+{"content": "then i thought something was wrong with my .", "line": "then i thought something was wrong with my car .", "masks": [8], "label": "1"}
+{"content": "that sufficiently minor as to not affect my rating .", "line": "that is sufficiently minor as to not affect my rating .", "masks": [1], "label": "1"}
+{"content": "because it s made of cast iron , scorching is .", "line": "because it s made of cast iron ,  scorching is minimized .", "masks": [10], "label": "1"}
+{"content": "i imagine it will make soups even better than the one as well .", "line": "i imagine it will make soups even better than the old one as well .", "masks": [10], "label": "1"}
+{"content": "very nice unit , operate .", "line": "very nice unit ,  easy to assemble and operate .", "masks": [4, 5, 6, 7], "label": "1"}
+{"content": "simple ! does the job was intended for .", "line": "simple !  does the job it was intended for .", "masks": [5], "label": "1"}
+{"content": "i ve this for months , and like it very much .", "line": "i ve been using this for months ,  and like it very much .", "masks": [2, 3], "label": "1"}
+{"content": "! : .", "line": "it works as advertised so i m happy !   :   .", "masks": [0, 1, 2, 3, 4, 5, 6, 7], "label": "1"}
+{"content": "item num_num days in bulk packaging exactly like j .", "line": "item arrived in num_num days in bulk packaging exactly like j .", "masks": [1, 2], "label": "1"}
+{"content": "for the size , weight and price it is really worth it", "line": "for the size ,  weight and price it is really worth it .", "masks": [12], "label": "1"}
+{"content": "i just flipped the pan over , and there they were", "line": "i just flipped the pan over ,  and there they were .", "masks": [11], "label": "1"}
+{"content": "the charge like when my phone was brand new .", "line": "it holds the charge like when my phone was brand new .", "masks": [0, 1], "label": "1"}
+{"content": "i case to my friends .", "line": "i would recommend this case to my friends .", "masks": [1, 2, 3], "label": "1"}
+{"content": "the same panel buttons are but in a better placement .", "line": "the same panel buttons are there but in a better placement .", "masks": [5], "label": "1"}
+{"content": "all my proves the same . hope that helps .", "line": "all my testing proves the same . hope that helps .", "masks": [2], "label": "1"}
+{"content": "all in all , though , happy with product .", "line": "all in all ,  though ,  happy with the product .", "masks": [8], "label": "1"}
+{"content": "finish is great , toast .", "line": "finish is great ,  and it makes great french toast .", "masks": [4, 5, 6, 7, 8], "label": "1"}
+{"content": "they get into the corners as described and are flexible firm .", "line": "they get into the corners as described and are flexible yet firm .", "masks": [10], "label": "1"}
+{"content": "hope longer grinder so can buy as a gift .", "line": "hope this lasts longer than my last grinder so can buy as a gift .", "masks": [1, 2, 4, 5, 6], "label": "1"}
+{"content": "i have mine for almost two years and they have not frayed .", "line": "i have had mine for almost two years and they have not frayed .", "masks": [2], "label": "1"}
+{"content": "with grandchildren , combination of colorful .", "line": "with grandchildren ,  this is the perfect combination of colorful and functional .", "masks": [3, 4, 5, 6, 10, 11], "label": "1"}
+{"content": "it s also a good size for a family of", "line": "it s also a good size for a family of num_extend", "masks": [10], "label": "1"}
+{"content": "i could not tell a difference at .", "line": "i could not tell a difference at all .", "masks": [7], "label": "1"}
+{"content": "i have this grill for num_num years .", "line": "i have been using this grill for num_num years .", "masks": [2, 3], "label": "1"}
+{"content": "i like the oster , it does everything it claim to do .", "line": "i like the oster steamer ,  it does everything it claim to do .", "masks": [4], "label": "1"}
+{"content": "would not suggest this on black iphones .", "line": "i would not suggest this on black iphones .", "masks": [0], "label": "1"}
+{"content": "it is to the old one i had for years .", "line": "it is close to the old one i had for years .", "masks": [2], "label": "1"}
+{"content": "one to another and two to amazon . com .", "line": "one to another company and two to amazon . com .", "masks": [3], "label": "1"}
+{"content": "the knife got a tad rusty after running it a cycle .", "line": "the knife got a tad rusty after running it through a cycle .", "masks": [9], "label": "1"}
+{"content": "i think the sensor is carpet fibers its sucking up as dirt .", "line": "i think the sensor is reading carpet fibers its sucking up as dirt .", "masks": [5], "label": "1"}
+{"content": "no problems with and worked with many devices .", "line": "no problems with this and worked with many devices .", "masks": [3], "label": "1"}
+{"content": "you will like it , or you won t .", "line": "either you will like it ,  or you won t .", "masks": [0], "label": "1"}
+{"content": "puts together very easily said it would .", "line": "puts together very easily and does what it s said it would .", "masks": [4, 5, 6, 7, 8], "label": "1"}
+{"content": "i really how this counter protector curves over the edge of the counter .", "line": "i really like how this counter protector curves over the edge of the counter .", "masks": [2], "label": "1"}
+{"content": "trash cans are pretty unexciting , but this one is awfully .", "line": "trash cans are pretty unexciting ,  but this one is awfully nice .", "masks": [11], "label": "1"}
+{"content": "much better than block and tackle type hooks to store overhead", "line": "much better than block and tackle type hooks to store overhead .", "masks": [11], "label": "1"}
+{"content": "it or assemble .", "line": "it is not difficult to clean or assemble .", "masks": [1, 2, 3, 4, 5], "label": "1"}
+{"content": "this pan is a bit heavier truly nonstick .", "line": "this pan is a bit heavier and truly nonstick .", "masks": [6], "label": "1"}
+{"content": "i can hear the caller clearly vice versa .", "line": "i can hear the caller clearly ,  vice versa .", "masks": [6], "label": "1"}
+{"content": "only issue is the light it becomes a annoying after a while .", "line": "only issue is the blue light it becomes a annoying after a while .", "masks": [4], "label": "1"}
+{"content": "we tried a few recipes and had fun with them .", "line": "we have tried a few recipes and had fun with them .", "masks": [1], "label": "1"}
+{"content": "take the whole thing out in sink .", "line": "take the whole thing out in the sink .", "masks": [6], "label": "1"}
+{"content": "this salad spinner", "line": "this salad spinner is durable and easy to use .", "masks": [3, 4, 5, 6, 7, 8, 9], "label": "1"}
+{"content": "i wouldn t trade them but knife for the price .", "line": "i wouldn t trade them but this is a great knife for the price .", "masks": [6, 7, 8, 9], "label": "1"}
+{"content": "it s very dependable .", "line": "it s very easy to use and very dependable .", "masks": [2, 3, 4, 5, 6], "label": "1"}
+{"content": "it moves plenty of air , between two rooms .", "line": "it moves plenty of air ,  oscillating between two rooms .", "masks": [6], "label": "1"}
+{"content": "i ve owned this crock pot for years .", "line": "i ve owned this crock pot for several years .", "masks": [7], "label": "1"}
+{"content": "if you want loud get the cdn num_extend count down digit timer .", "line": "if you want loud get the cdn num_extend count down big digit timer .", "masks": [10], "label": "1"}
+{"content": "then i used the attachemnts on my and the water was gray .", "line": "then i used the attachemnts on my furniture and the water was gray .", "masks": [7], "label": "1"}
+{"content": "i think this case phone case .", "line": "i think this case is a very nice phone case .", "masks": [4, 5, 6, 7], "label": "1"}
+{"content": "anker is a fine product though i d never heard it .", "line": "anker is a fine product though i d never heard of it .", "masks": [10], "label": "1"}
+{"content": "unit itself rests like a necklace around your neck .", "line": "the unit itself rests like a necklace around your neck .", "masks": [0], "label": "1"}
+{"content": "the item was what i was looking for exactly as described .", "line": "the item was what i was looking for and arrived exactly as described .", "masks": [8, 9], "label": "1"}
+{"content": "the braun . this is my second programmable flavorselect .", "line": "the braun has it all . this is my second programmable flavorselect .", "masks": [2, 3, 4], "label": "1"}
+{"content": "i for a cute case .", "line": "i would definitely recommend this for a cute case .", "masks": [1, 2, 3, 4], "label": "1"}
+{"content": "but the back side well .", "line": "but the back side looks nice as well .", "masks": [4, 5, 6], "label": "1"}
+{"content": "i bought three these units to place in our home .", "line": "i bought three of these units to place in our home .", "masks": [3], "label": "1"}
+{"content": "and that would be what you would .", "line": "and that would be what you would need .", "masks": [7], "label": "1"}
+{"content": "it works fine and the coffee is just as .", "line": "it works fine and the coffee is just as great !  .", "masks": [9, 10], "label": "1"}
+{"content": "it basically picks up what is directly front of it .", "line": "it basically picks up what is directly in front of it .", "masks": [7], "label": "1"}
+{"content": "pretty much all ask for in a grinder .", "line": "pretty much all i ask for in a grinder .", "masks": [3], "label": "1"}
+{"content": "it quality at a reasonalbe price .", "line": "it s a very good quality at a reasonalbe price .", "masks": [1, 2, 3, 4], "label": "1"}
+{"content": "just do your homework and up pretty satisfied .", "line": "just do your homework and you will end up pretty satisfied .", "masks": [5, 6, 7], "label": "1"}
+{"content": "this knife sharpener more than our expectations .", "line": "this knife sharpener more than met our expectations .", "masks": [5], "label": "1"}
+{"content": "most pizza wheels that i ve seen are smaller .", "line": "most pizza wheels that i ve seen are much smaller .", "masks": [8], "label": "1"}
+{"content": "perfect fit for replacement in num_num year old blender that still works .", "line": "perfect fit for replacement in my num_num year old blender that still works .", "masks": [5], "label": "1"}
+{"content": "and i have tried a of them .", "line": "and i have tried a lot of them .", "masks": [5], "label": "1"}
+{"content": "i give it five stars eating good .", "line": "i give it five stars for making eating good so easy !  .", "masks": [5, 6, 9, 10, 11], "label": "1"}
+{"content": "i can t believe how strong guy is .", "line": "i can t believe how strong this little guy is .", "masks": [6, 7], "label": "1"}
+{"content": "the daily challenge around here is keeping the cat fur to minimum .", "line": "the daily challenge around here is keeping the cat fur to a minimum .", "masks": [11], "label": "1"}
+{"content": "despite the port breaking it gets stars .", "line": "despite the port breaking it gets num_extend stars .", "masks": [6], "label": "1"}
+{"content": "synching with no passwords or codes required .", "line": "synching is simple ,  with no passwords or codes required .", "masks": [1, 2, 3], "label": "1"}
+{"content": "wow im impressed with this device ! it is .", "line": "wow im impressed with this device !  how useful it is .", "masks": [7, 8], "label": "1"}
+{"content": "a gas cooktop would be worse a smooth cooktop probably much better .", "line": "a gas cooktop would be worse and a smooth cooktop probably much better .", "masks": [6], "label": "1"}
+{"content": "i love the floral design the colors .", "line": "i love the floral design and the colors .", "masks": [5], "label": "1"}
+{"content": "impressed than within a minute incorporated all ingredients to perfection .", "line": "very impressed than within a minute incorporated all ingredients to perfection .", "masks": [0], "label": "1"}
+{"content": "we often cook sausages , hot dogs and hamburgers in as well .", "line": "we often cook sausages ,  hot dogs and hamburgers in it as well .", "masks": [10], "label": "1"}
+{"content": "snug fit , with all the buttons and holes aligned .", "line": "snug fit ,  with all the buttons and holes perfectly aligned .", "masks": [9], "label": "1"}
+{"content": "yes , it is plastic , but not cheap .", "line": "yes ,  it is plastic ,  but not cheap plastic .", "masks": [9], "label": "1"}
+{"content": "i this with afresh to clean my cook top .", "line": "i use this with afresh to clean my cook top .", "masks": [1], "label": "1"}
+{"content": "doesn t get stuck on the rod like some non rollers do", "line": "doesn t get stuck on the rod like some non rollers do .", "masks": [12], "label": "1"}
+{"content": "i made flour tortillas that night for our mexican dinner .", "line": "i made flour tortillas that night for our mexican burrito dinner .", "masks": [9], "label": "1"}
+{"content": "the grill surface our other grills .", "line": "the grill surface is easier to clean than our other grills .", "masks": [3, 4, 5, 6, 7], "label": "1"}
+{"content": "the zipper shuts with a flap that covers the zipped part .", "line": "the case zipper shuts with a flap that covers the zipped part .", "masks": [1], "label": "1"}
+{"content": "i like i have a new phone .", "line": "i feel like i have a new phone .", "masks": [1], "label": "1"}
+{"content": "it to a powder in just a couple of seconds .", "line": "it grinds it to a powder in just a couple of seconds .", "masks": [0, 1], "label": "1"}
+{"content": "plus its from and amazon wouldn t put their name on crap .", "line": "plus its from amazon and amazon wouldn t put their name on crap .", "masks": [3], "label": "1"}
+{"content": "he s heavy and stable to not tip over when it s windy .", "line": "he s heavy and stable enough to not tip over when it s windy .", "masks": [5], "label": "1"}
+{"content": "another thing i really is that it does not have rivets .", "line": "another thing i really like is that it does not have rivets .", "masks": [4], "label": "1"}
+{"content": "he read every amazon . com review as well as the zojirushi website", "line": "he read every amazon . com review as well as the zojirushi website .", "masks": [13], "label": "1"}
+{"content": "fair . x x x x x x x x xx x .", "line": "fair price . x x x x x x x x xx x .", "masks": [1], "label": "1"}
+{"content": "have to say that it was money well spent .", "line": "i have to say that it was money well spent .", "masks": [0], "label": "1"}
+{"content": "it stores in a really small place to last .", "line": "it stores in a really small place and is built to last .", "masks": [7, 8, 9], "label": "1"}
+{"content": "saves on cleaning the use of aluminum foil .", "line": "saves on cleaning and the use of aluminum foil .", "masks": [3], "label": "1"}
+{"content": "what a change my life this will make .", "line": "what a change in my life this will make .", "masks": [3], "label": "1"}
+{"content": "the sound is also very surprising for the price and is enough me .", "line": "the sound is also very surprising for the price and is enough for me .", "masks": [12], "label": "1"}
+{"content": "this is the second one these i have purchased .", "line": "this is the second one of these i have purchased .", "masks": [5], "label": "1"}
+{"content": "it doesn t require genius get this unit operating .", "line": "it doesn t require genius to get this unit operating .", "masks": [5], "label": "1"}
+{"content": "i estimate that four trips were made refill the water compartments .", "line": "i estimate that four trips were made to empty and refill the water compartments .", "masks": [7, 8, 9], "label": "1"}
+{"content": "carrots will leave a big orange smear on the .", "line": "carrots will leave a big orange smear on the surface .", "masks": [9], "label": "1"}
+{"content": "the instructions came over the motorola num_extend and were .", "line": "the instructions came over the motorola num_extend and were very clear .", "masks": [9, 10], "label": "1"}
+{"content": "once the lid closes , the goes away .", "line": "once the lid closes ,  the smell goes away .", "masks": [6], "label": "1"}
+{"content": "it s not as bulky feel the other cases available .", "line": "it s not as bulky feel as the other cases available .", "masks": [6], "label": "1"}
+{"content": "still it is a fun learning experience", "line": "still it is a fun learning experience and so far so good .", "masks": [7, 8, 9, 10, 11, 12], "label": "1"}
+{"content": "it i expected it to be .", "line": "it was just what i expected it to be .", "masks": [1, 2, 3], "label": "1"}
+{"content": "i did not what i felt were unrealistic expectations of this device .", "line": "i did not have what i felt were unrealistic expectations of this device .", "masks": [3], "label": "1"}
+{"content": "my wife despises window fans usually this thing too .", "line": "my wife despises window fans usually and she loves this thing too .", "masks": [6, 7, 8], "label": "1"}
+{"content": "i purchased the to replace a glass bodum press that broke .", "line": "i purchased the frieling to replace a glass bodum press that broke .", "masks": [3], "label": "1"}
+{"content": "just the right size for the camper .", "line": "it works as expected and is just the right size for the camper .", "masks": [0, 1, 2, 3, 4, 5], "label": "1"}
+{"content": "a meeting my phone is the bag charging .", "line": "a meeting my phone is in the bag charging .", "masks": [5], "label": "1"}
+{"content": "white in refrigerator a couple of days longer .", "line": "white in the refrigerator a couple of days longer .", "masks": [2], "label": "1"}
+{"content": "i love cooking and you need sharp knives .", "line": "i love cooking and you need sharp knives when cooking .", "masks": [8, 9], "label": "1"}
+{"content": "this works just as i thought it would .", "line": "this item works just as i thought it would .", "masks": [1], "label": "1"}
+{"content": "it comes at a good price and appears to be .", "line": "it comes at a good price and appears to be well made .", "masks": [10, 11], "label": "1"}
+{"content": "i read all the reviews one .", "line": "i read all the reviews and decided on this one .", "masks": [5, 6, 7, 8], "label": "1"}
+{"content": "course the german s call this sort of idea good engineering .", "line": "of course the german s call this sort of idea good engineering .", "masks": [0], "label": "1"}
+{"content": "i this griddle doubles as an indoor grill .", "line": "i also love that this griddle doubles as an indoor grill .", "masks": [1, 2, 3], "label": "1"}
+{"content": "we ours at least a couple of hundred times .", "line": "we have used ours at least a couple of hundred times .", "masks": [1, 2], "label": "1"}
+{"content": "one of the older foodsavers .", "line": "a must have if you have one of the older foodsavers .", "masks": [0, 1, 2, 3, 4, 5], "label": "1"}
+{"content": "i may even give some as gifts holiday season .", "line": "i may even give some as gifts this holiday season .", "masks": [7], "label": "1"}
+{"content": "finer the setting , the longer it takes .", "line": "the finer the setting ,  the longer it takes .", "masks": [0], "label": "1"}
+{"content": "i use these reviews so that i want to give back .", "line": "i use these reviews so heavily that i want to give back .", "masks": [5], "label": "1"}
+{"content": "should have a wider design for different foods", "line": "should have a wider design for different foods .", "masks": [8], "label": "1"}
+{"content": "its actually a little than the filter that came with the unit .", "line": "its actually a little better than the filter that came with the unit .", "masks": [4], "label": "1"}
+{"content": "purchased new android tablet in the car on trips .", "line": "purchased this to charge my new android tablet in the car on trips .", "masks": [1, 2, 3, 4], "label": "1"}
+{"content": "i ve had to repair it a few times as it s % .", "line": "i ve had to repair it a few times as it s % plastic .", "masks": [13], "label": "1"}
+{"content": "cookware i ve ever owned .", "line": "this is the best cookware i ve ever owned .", "masks": [0, 1, 2, 3], "label": "1"}
+{"content": "not that anything sticks that much you just don t .", "line": "not that anything sticks that much you just don t have to worry .", "masks": [10, 11, 12], "label": "1"}

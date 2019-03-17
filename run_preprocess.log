@@ -1,0 +1,286 @@
+nohup: ignoring input
++ bash scripts/frequency_ratio/preprocess_yelp_frequency_ratio.sh
++ cp configs/cbert_yelp_frequency_ratio.config run.config
++ PROCESSED_DATA_DIR=processed_data_frequency_ratio
++ cp drg_tf_idf/yelp/sentiment.train.0.tf_idf.orgin processed_data_frequency_ratio/yelp/yelp.train.0.tf_idf.label
++ cp drg_tf_idf/yelp/sentiment.train.1.tf_idf.orgin processed_data_frequency_ratio/yelp/yelp.train.1.tf_idf.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_train.py raw_data/yelp/sentiment.train.0 yelp.train.0 label 7000 15 yelp.train.0 yelp processed_data_frequency_ratio
+118947
+79516
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_train.py raw_data/yelp/sentiment.dev.0 yelp.train.0 label 7000 15 yelp.dev.0 yelp processed_data_frequency_ratio
+1288
+853
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_frequency_ratio.py raw_data/yelp/sentiment.test.0 yelp.train.0 label 7000 15 yelp.test.0 yelp processed_data_frequency_ratio
+processed_num=500
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_train.py raw_data/yelp/sentiment.train.1 yelp.train.1 label 7000 15 yelp.train.1 yelp processed_data_frequency_ratio
+135696
+91626
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_train.py raw_data/yelp/sentiment.dev.1 yelp.train.1 label 7000 15 yelp.dev.1 yelp processed_data_frequency_ratio
+993
+677
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_frequency_ratio.py raw_data/yelp/sentiment.test.1 yelp.train.1 label 7000 15 yelp.test.1 yelp processed_data_frequency_ratio
+processed_num=500
++ rm processed_data_frequency_ratio/yelp/train.data.label
++ rm processed_data_frequency_ratio/yelp/dev.data.label
++ rm processed_data_frequency_ratio/yelp/test.data.label
++ cat processed_data_frequency_ratio/yelp/yelp.train.0.data.label processed_data_frequency_ratio/yelp/yelp.train.1.data.label
++ cat processed_data_frequency_ratio/yelp/yelp.dev.0.data.label processed_data_frequency_ratio/yelp/yelp.dev.1.data.label
++ cat processed_data_frequency_ratio/yelp/yelp.test.0.data.label processed_data_frequency_ratio/yelp/yelp.test.1.data.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 shuffle.py processed_data_frequency_ratio/yelp/train.data.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 shuffle.py processed_data_frequency_ratio/yelp/dev.data.label
++ cp processed_data_frequency_ratio/yelp/train.data.label.shuffle processed_data_frequency_ratio/yelp/train.data.label
++ cp processed_data_frequency_ratio/yelp/dev.data.label.shuffle processed_data_frequency_ratio/yelp/dev.data.label
++ bash scripts/frequency_ratio/preprocess_amazon_frequency_ratio.sh
++ cp configs/cbert_amazon_frequency_ratio.config run.config
++ PROCESSED_DATA_DIR=processed_data_frequency_ratio
++ cp drg_tf_idf/amazon/sentiment.train.0.tf_idf.orgin processed_data_frequency_ratio/amazon/amazon.train.0.tf_idf.label
++ cp drg_tf_idf/amazon/sentiment.train.1.tf_idf.orgin processed_data_frequency_ratio/amazon/amazon.train.1.tf_idf.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_train.py raw_data/amazon/sentiment.train.0 amazon.train.0 label 10000 1 amazon.train.0 amazon processed_data_frequency_ratio
+275657
+120731
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_train.py raw_data/amazon/sentiment.dev.0 amazon.train.0 label 10000 1 amazon.dev.0 amazon processed_data_frequency_ratio
+1008
+413
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_frequency_ratio.py raw_data/amazon/sentiment.test.0 amazon.train.0 label 10000 1 amazon.test.0 amazon processed_data_frequency_ratio
+processed_num=500
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_train.py raw_data/amazon/sentiment.train.1 amazon.train.1 label 10000 1 amazon.train.1 amazon processed_data_frequency_ratio
+272347
+104722
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_train.py raw_data/amazon/sentiment.dev.1 amazon.train.1 label 10000 1 amazon.dev.1 amazon processed_data_frequency_ratio
+970
+360
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_frequency_ratio.py raw_data/amazon/sentiment.test.1 amazon.train.1 label 10000 1 amazon.test.1 amazon processed_data_frequency_ratio
+processed_num=500
++ rm processed_data_frequency_ratio/amazon/train.data.label
++ cat processed_data_frequency_ratio/amazon/amazon.train.0.data.label processed_data_frequency_ratio/amazon/amazon.train.1.data.label
++ rm processed_data_frequency_ratio/amazon/dev.data.label
++ cat processed_data_frequency_ratio/amazon/amazon.dev.0.data.label processed_data_frequency_ratio/amazon/amazon.dev.1.data.label
++ rm processed_data_frequency_ratio/amazon/test.data.label
++ cat processed_data_frequency_ratio/amazon/amazon.test.0.data.label processed_data_frequency_ratio/amazon/amazon.test.1.data.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 shuffle.py processed_data_frequency_ratio/amazon/train.data.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 shuffle.py processed_data_frequency_ratio/amazon/dev.data.label
++ cp processed_data_frequency_ratio/amazon/train.data.label.shuffle processed_data_frequency_ratio/amazon/train.data.label
++ cp processed_data_frequency_ratio/amazon/dev.data.label.shuffle processed_data_frequency_ratio/amazon/dev.data.label
++ bash scripts/fusion_method/preprocess_yelp_fusion_method.sh
++ cp configs/cbert_yelp_fusion_method.config run.config
++ PROCESSED_DATA_DIR=processed_data_fusion_method
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 filter_style_ngrams_modified.py raw_data/yelp/sentiment.train. 2 label yelp.train. yelp processed_data_fusion_method
++ cp drg_tf_idf/yelp/sentiment.train.0.tf_idf.orgin processed_data_fusion_method/yelp/yelp.train.0.tf_idf.filter
++ cp drg_tf_idf/yelp/sentiment.train.1.tf_idf.orgin processed_data_fusion_method/yelp/yelp.train.1.tf_idf.filter
++ /home/xgg/anaconda3/bin/python attn_cls_tf_idf.py processed_data_fusion_method
+03/11/2019 23:03:32 - INFO - pytorch_pretrained_bert.modeling -   loading archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz
+03/11/2019 23:03:32 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz to temp dir /tmp/tmphkmnwdow
+03/11/2019 23:03:35 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+03/11/2019 23:03:37 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+/home/xgg/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py:1006: UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
+  warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
+Model pytorch_pretrained_cls/yelp.attn.cbert.pkl loaded successfully!
+processed over!
+processed over!
++ cp processed_data_fusion_method/yelp/yelp.train.0.tf_idf.attn.label processed_data_fusion_method/yelp/yelp.train.0.tf_idf.label
++ cp processed_data_fusion_method/yelp/yelp.train.1.tf_idf.attn.label processed_data_fusion_method/yelp/yelp.train.1.tf_idf.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_fusion_method.py raw_data/yelp/sentiment.train.0 yelp.train.0 label 7000 1 yelp.train.0 yelp processed_data_fusion_method
+processed_num=104072
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_fusion_method.py raw_data/yelp/sentiment.dev.0 yelp.train.0 label 7000 1 yelp.dev.0 yelp processed_data_fusion_method
+processed_num=1163
++ python preprocess_fusion_method_for_test.py raw_data/yelp/sentiment.test.0 yelp.train.0 label 7000 1 yelp.test.0 yelp processed_data_fusion_method
+03/11/2019 23:03:55 - INFO - pytorch_pretrained_bert.modeling -   loading archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz
+03/11/2019 23:03:55 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz to temp dir /tmp/tmp5_pdwdvj
+03/11/2019 23:03:57 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+03/11/2019 23:03:59 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+Model pytorch_pretrained_cls/yelp.attn.cbert.pkl loaded successfully!
+processed_num=500
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_fusion_method.py raw_data/yelp/sentiment.train.1 yelp.train.1 label 7000 1 yelp.train.1 yelp processed_data_fusion_method
+processed_num=140479
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_fusion_method.py raw_data/yelp/sentiment.dev.1 yelp.train.1 label 7000 1 yelp.dev.1 yelp processed_data_fusion_method
+processed_num=1032
++ python preprocess_fusion_method_for_test.py raw_data/yelp/sentiment.test.1 yelp.train.1 label 7000 1 yelp.test.1 yelp processed_data_fusion_method
+03/11/2019 23:04:11 - INFO - pytorch_pretrained_bert.modeling -   loading archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz
+03/11/2019 23:04:11 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz to temp dir /tmp/tmp3nsf7uog
+03/11/2019 23:04:13 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+03/11/2019 23:04:15 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+Model pytorch_pretrained_cls/yelp.attn.cbert.pkl loaded successfully!
+processed_num=500
++ /home/xgg/anaconda3/bin/python process_unable.py processed_data_fusion_method
+03/11/2019 23:04:18 - INFO - pytorch_pretrained_bert.modeling -   loading archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz
+03/11/2019 23:04:18 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz to temp dir /tmp/tmp3iza5av_
+03/11/2019 23:04:20 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+03/11/2019 23:04:22 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+Model pytorch_pretrained_cls/yelp.attn.cbert.pkl loaded successfully!
+processed over!
+processed over!
+processed over!
+processed over!
++ rm processed_data_fusion_method/yelp/train.data.label
++ rm processed_data_fusion_method/yelp/dev.data.label
++ rm processed_data_fusion_method/yelp/test.data.label
++ cat processed_data_fusion_method/yelp/yelp.train.0.data.label processed_data_fusion_method/yelp/yelp.train.1.data.label
++ cat processed_data_fusion_method/yelp/yelp.dev.0.data.label processed_data_fusion_method/yelp/yelp.dev.1.data.label
++ cat processed_data_fusion_method/yelp/yelp.test.0.data.label processed_data_fusion_method/yelp/yelp.test.1.data.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 shuffle.py processed_data_fusion_method/yelp/train.data.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 shuffle.py processed_data_fusion_method/yelp/dev.data.label
++ cp processed_data_fusion_method/yelp/train.data.label.shuffle processed_data_fusion_method/yelp/train.data.label
++ cp processed_data_fusion_method/yelp/dev.data.label.shuffle processed_data_fusion_method/yelp/dev.data.label
++ bash scripts/fusion_method/preprocess_amazon_fusion_method.sh
++ cp configs/cbert_amazon_fusion_method.config run.config
++ PROCESSED_DATA_DIR=processed_data_fusion_method
++ cp drg_tf_idf/amazon/sentiment.train.0.tf_idf.orgin.filter processed_data_fusion_method/amazon/amazon.train.0.tf_idf.filter.label
++ cp drg_tf_idf/amazon/sentiment.train.1.tf_idf.orgin.filter processed_data_fusion_method/amazon/amazon.train.1.tf_idf.filter.label
++ /home/xgg/anaconda3/bin/python attn_cls_tf_idf.py processed_data_fusion_method
+03/11/2019 23:05:54 - INFO - pytorch_pretrained_bert.modeling -   loading archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz
+03/11/2019 23:05:54 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz to temp dir /tmp/tmp8lnl2xmm
+03/11/2019 23:05:56 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+03/11/2019 23:05:58 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+/home/xgg/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py:1006: UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
+  warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
+Model pytorch_pretrained_cls/amazon.attn.cbert.pkl loaded successfully!
+processed over!
+processed over!
++ cp processed_data_fusion_method/amazon/amazon.train.0.tf_idf.attn.label processed_data_fusion_method/amazon/amazon.train.0.tf_idf.label
++ cp processed_data_fusion_method/amazon/amazon.train.1.tf_idf.attn.label processed_data_fusion_method/amazon/amazon.train.1.tf_idf.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_fusion_method.py raw_data/amazon/sentiment.train.0 amazon.train.0 label 10000 1 amazon.train.0 amazon processed_data_fusion_method
+processed_num=110222
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_fusion_method.py raw_data/amazon/sentiment.dev.0 amazon.train.0 label 10000 1 amazon.dev.0 amazon processed_data_fusion_method
+processed_num=379
++ python preprocess_fusion_method_for_test.py raw_data/amazon/sentiment.test.0 amazon.train.0 label 10000 1 amazon.test.0 amazon processed_data_fusion_method
+03/11/2019 23:06:19 - INFO - pytorch_pretrained_bert.modeling -   loading archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz
+03/11/2019 23:06:19 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz to temp dir /tmp/tmpcyszrhmt
+03/11/2019 23:06:21 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+03/11/2019 23:06:23 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+Model pytorch_pretrained_cls/amazon.attn.cbert.pkl loaded successfully!
+processed_num=500
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_fusion_method.py raw_data/amazon/sentiment.train.1 amazon.train.1 label 10000 1 amazon.train.1 amazon processed_data_fusion_method
+processed_num=107187
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 preprocess_fusion_method.py raw_data/amazon/sentiment.dev.1 amazon.train.1 label 10000 1 amazon.dev.1 amazon processed_data_fusion_method
+processed_num=374
++ python preprocess_fusion_method_for_test.py raw_data/amazon/sentiment.test.1 amazon.train.1 label 10000 1 amazon.test.1 amazon processed_data_fusion_method
+03/11/2019 23:06:36 - INFO - pytorch_pretrained_bert.modeling -   loading archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz
+03/11/2019 23:06:36 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz to temp dir /tmp/tmpkys5fw05
+03/11/2019 23:06:39 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+03/11/2019 23:06:41 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+Model pytorch_pretrained_cls/amazon.attn.cbert.pkl loaded successfully!
+processed_num=500
++ /home/xgg/anaconda3/bin/python process_unable.py processed_data_fusion_method
+03/11/2019 23:06:44 - INFO - pytorch_pretrained_bert.modeling -   loading archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz
+03/11/2019 23:06:44 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file /home/xgg/.pytorch_pretrained_bert/bert-base-uncased.tar.gz to temp dir /tmp/tmpxu900sgs
+03/11/2019 23:06:46 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+03/11/2019 23:06:48 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+Model pytorch_pretrained_cls/amazon.attn.cbert.pkl loaded successfully!
+processed over!
+processed over!
+processed over!
+processed over!
++ rm processed_data_fusion_method/amazon/train.data.label
++ cat processed_data_fusion_method/amazon/amazon.train.0.data.label processed_data_fusion_method/amazon/amazon.train.1.data.label
++ rm processed_data_fusion_method/amazon/dev.data.label
++ cat processed_data_fusion_method/amazon/amazon.dev.0.data.label processed_data_fusion_method/amazon/amazon.dev.1.data.label
++ rm processed_data_fusion_method/amazon/test.data.label
++ cat processed_data_fusion_method/amazon/amazon.test.0.data.label processed_data_fusion_method/amazon/amazon.test.1.data.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 shuffle.py processed_data_fusion_method/amazon/train.data.label
++ /home/xgg/anaconda3/envs/py27/bin/python2.7 shuffle.py processed_data_fusion_method/amazon/dev.data.label
++ cp processed_data_fusion_method/amazon/train.data.label.shuffle processed_data_fusion_method/amazon/train.data.label
++ cp processed_data_fusion_method/amazon/dev.data.label.shuffle processed_data_fusion_method/amazon/dev.data.label

@@ -1,5 +1,5 @@
 # MLM_transfer
-Implemetation of MLM_transfer
+Implemetation of (mask and infill: applying masked language model for sentiment)[https://www.ijcai.org/proceedings/2019/732]
 
 Environment：
   - python==3.6
@@ -40,3 +40,18 @@ Procedures：
  if lm_loss.item() > 1.5: => if lm_loss.item() > 1.7 or higher # line 153
  
  We also tried to use policy_gradient instead of soft-sampling to back-propagate gradient, and we encourage you to implement it yourself.
+
+If you use the code, please cite:
+@proceedings{DBLP:conf/ijcai/2019,
+  editor    = {Sarit Kraus},
+  title     = {Proceedings of the Twenty-Eighth International Joint Conference on
+               Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16,
+               2019},
+  publisher = {ijcai.org},
+  year      = {2019},
+  url       = {https://doi.org/10.24963/ijcai.2019},
+  doi       = {10.24963/ijcai.2019},
+  timestamp = {Tue, 20 Aug 2019 16:18:18 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/ijcai/2019},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

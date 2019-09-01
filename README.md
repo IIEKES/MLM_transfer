@@ -42,6 +42,7 @@ Procedures：
  We also tried to use policy_gradient instead of soft-sampling to back-propagate gradient, and we encourage you to implement it yourself.
 
 If you use the code, please cite:
+$\text{
 @proceedings{DBLP:conf/ijcai/2019,
   editor    = {Sarit Kraus},
   title     = {Proceedings of the Twenty-Eighth International Joint Conference on
@@ -55,3 +56,5 @@ If you use the code, please cite:
   biburl    = {https://dblp.org/rec/bib/conf/ijcai/2019},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+}
+$

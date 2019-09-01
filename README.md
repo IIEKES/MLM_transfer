@@ -1,5 +1,5 @@
 # MLM_transfer
-Implemetation of (mask and infill: applying masked language model for sentiment)[https://www.ijcai.org/proceedings/2019/732]
+Implemetation of [mask and infill: applying masked language model for sentiment](https://www.ijcai.org/proceedings/2019/732)
 
 Environment：
   - python==3.6

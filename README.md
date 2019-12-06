@@ -43,17 +43,17 @@ Procedures：
 
 If you use the code, please cite:
 ```
-@proceedings{DBLP:conf/ijcai/2019,
-  editor    = {Sarit Kraus},
-  title     = {Proceedings of the Twenty-Eighth International Joint Conference on
-               Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16,
-               2019},
-  publisher = {ijcai.org},
+@inproceedings{ijcai2019-732,
+  title     = {Mask and Infill: Applying Masked Language Model for Sentiment Transfer},
+  author    = {Wu, Xing and Zhang, Tao and Zang, Liangjun and Han, Jizhong and Hu, Songlin},
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+               Artificial Intelligence, {IJCAI-19}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+  pages     = {5271--5277},
   year      = {2019},
-  url       = {https://doi.org/10.24963/ijcai.2019},
-  doi       = {10.24963/ijcai.2019},
-  timestamp = {Tue, 20 Aug 2019 16:18:18 +0200},
-  biburl    = {https://dblp.org/rec/bib/conf/ijcai/2019},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  month     = {7},
+  doi       = {10.24963/ijcai.2019/732},
+  url       = {https://doi.org/10.24963/ijcai.2019/732},
 }
+
 ```
